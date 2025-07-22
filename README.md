@@ -18,4 +18,3 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=HTML5&logoColor=white)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtmtkzy&layout=compact)
 ![Visitor Count](https://komarev.com/ghpvc/?username=mtmtkzy)
-![アニメーションのaltテキスト](https://your-image-hosting-service.com/your-animation.gif)
