@@ -4,6 +4,8 @@
 - Python
 - Web開発（HTML/CSS/JavaScript）
 - Git/GitHub
+- Claude (AI)
+- Dify
 
 ## 📫 連絡先
 - Twitter: [@example](https://twitter.com/example)
